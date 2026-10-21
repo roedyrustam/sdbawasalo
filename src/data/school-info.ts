@@ -27,7 +27,7 @@ export const schoolInfo: SchoolProfile = {
     phone: '(0410) 2311-032',
     email: 'sdn32bawasalo.segeri@gmail.com',
     whatsappHotline: '6285299256705',
-    whatsappNumberOnly: '62852992567052',
+    whatsappNumberOnly: '6285299256705',
     operationalHours: 'Senin - Sabtu: 07.15 - 13.00 WITA',
   },
   stats: {
