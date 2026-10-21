@@ -58,7 +58,7 @@ export const teachersData: Teacher[] = [
   },
   {
     id: 't-6',
-    name: 'Hasnah Dewi, S.Pd.',
+    name: 'Armin H',
     nip: '199208182020122018',
     role: 'Wali Kelas 5',
     subject: 'Tematik & Literasi Digital',
