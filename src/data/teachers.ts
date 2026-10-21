@@ -3,7 +3,7 @@ import { Teacher } from '@/types';
 export const teachersData: Teacher[] = [
   {
     id: 't-1',
-    name: 'Hj. Sitti Maryam, S.Pd., M.Pd.',
+    name: 'Abu Bakar , S.Pd., M.Pd.',
     nip: '197105121993072001',
     role: 'Kepala Sekolah',
     subject: 'Manajemen Pendidikan & Pembina',

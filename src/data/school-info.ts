@@ -9,7 +9,7 @@ export const schoolInfo: SchoolProfile = {
   accreditationGrade: 'B (Baik)',
   foundedYear: '1982',
   principal: {
-    name: 'Hj. Sitti Maryam, S.Pd., M.Pd.',
+    name: 'Abu Bakar , S.Pd., M.Pd.',
     nip: '197105121993072001',
     photoUrl: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=600',
     greeting: 'Assalamu Alaikum Warahmatullahi Wabarakatuh, Tabee maremma. Selamat datang di portal resmi UPTD SD Negeri 32 Bawasalo. Kami berkomitmen mewujudkan generasi cerdas, berkarakter luhur, berwawasan lingkungan, serta menjunjung tinggi nilai budaya kearifan lokal Sipakatau, Sipakalebbi, dan Sipakainge di Kabupaten Pangkajene dan Kepulauan.',

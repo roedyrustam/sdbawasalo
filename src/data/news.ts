@@ -8,7 +8,7 @@ export const newsArticlesData: NewsArticle[] = [
     excerpt: 'Pendaftaran murid baru kelas 1 resmi dibuka secara online dan offline. Simak syarat usia, berkas dokumen, dan alur pendaftarannya di sini.',
     content: [
       'UPTD SD Negeri 32 Bawasalo, Kelurahan Bawasalo, Kecamatan Segeri, Kabupaten Pangkep secara resmi mengumumkan pembukaan Penerimaan Peserta Didik Baru (PPDB) untuk Tahun Ajaran 2026/2027.',
-      'Kepala Sekolah Hj. Sitti Maryam, S.Pd., M.Pd. menyampaikan bahwa pada tahun ajaran ini, sekolah menyediakan kuota sebanyak 1 rombongan belajar (rombel) dengan daya tampung maksimal 28 siswa untuk memberikan rasio pendampingan guru yang optimal.',
+      'Kepala Sekolah Abu Bakar , S.Pd., M.Pd. menyampaikan bahwa pada tahun ajaran ini, sekolah menyediakan kuota sebanyak 1 rombongan belajar (rombel) dengan daya tampung maksimal 28 siswa untuk memberikan rasio pendampingan guru yang optimal.',
       'Persyaratan utama pendaftaran adalah calon siswa telah berusia minimal 6 (enam) tahun pada tanggal 1 Juli tahun berjalan (diprioritaskan yang telah berusia 7 tahun). Orang tua/wali murid dipersilakan mengisi formulir pendaftaran secara online melalui portal ini atau datang langsung ke ruang administrasi sekolah dengan membawa fotokopi Akta Kelahiran dan Kartu Keluarga (KK).',
       'Pendaftaran tidak dipungut biaya apapun (GRATIS) dan seluruh peserta didik baru akan mendapatkan bimbingan masa pengenalan lingkungan sekolah (MPLS) yang ramah anak dan bebas perundungan.',
     ],
