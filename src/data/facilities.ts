@@ -1,0 +1,58 @@
+import { Facility } from '@/types';
+
+export const facilitiesData: Facility[] = [
+  {
+    id: 'f-1',
+    name: 'Ruang Kelas Nyaman & Ramah Anak',
+    category: 'Akademik',
+    description: 'Enam ruang kelas standar nasional dengan pencahayaan alami optimal, ventilasi segar, papan tulis terintegrasi, dan pojok baca di setiap kelas.',
+    condition: 'Sangat Baik',
+    features: ['Meja-kursi ergonomis', 'Pojok Baca Literasi Siswa', 'Display Karya Siswa', 'Ventilasi & Kipas Angin'],
+    imageUrl: 'https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&q=80&w=600',
+  },
+  {
+    id: 'f-2',
+    name: 'Perpustakaan Sekolah "Cahaya Ilmu"',
+    category: 'Akademik',
+    description: 'Menyediakan ribuan koleksi buku cerita anak, ensiklopedia bergambar, buku teks Kurikulum Merdeka, serta area membaca santai berkarpet.',
+    condition: 'Baik & Terawat',
+    features: ['Koleksi 1.500+ Eksemplar', 'Area Lesehan Santai', 'Sistem Peminjaman Buku', 'Majalah Anak & Koran Pendidikan'],
+    imageUrl: 'https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&q=80&w=600',
+  },
+  {
+    id: 'f-3',
+    name: 'Laboratorium Digital / Fasilitas ANBK',
+    category: 'Penunjang',
+    description: 'Perangkat Chromebook dan komputer portabel yang digunakan untuk pembelajaran teknologi dasar dan pelaksanaan Asesmen Nasional Berbasis Komputer (ANBK).',
+    condition: 'Sangat Baik',
+    features: ['15 Unit Chromebook Mandiri', 'Jaringan Internet Wi-Fi Dedicated', 'Server Cadangan ANBK', 'Proyektor Pembelajaran'],
+    imageUrl: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=600',
+  },
+  {
+    id: 'f-4',
+    name: 'Lapangan Olahraga & Upacara Serbaguna',
+    category: 'Olahraga',
+    description: 'Halaman tengah sekolah yang luas untuk pelaksanaan Upacara Bendera setiap hari Senin, senam kesegaran jasmani, latihan bulutangkis, dan sepak takraw.',
+    condition: 'Baik',
+    features: ['Tiang Bendera Permanen', 'Garis Lapangan Takraw & Voli', 'Pohon Peneduh Asri', 'Sound System Upacara'],
+    imageUrl: 'https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&q=80&w=600',
+  },
+  {
+    id: 'f-5',
+    name: 'Musholla Sekolah "Al-Ikhlas"',
+    category: 'Kesehatan & Ibadah',
+    description: 'Sarana ibadah sholat dhuha bersama, sholat dzuhur berjamaah, dan kegiatan bimbingan Baca Tulis Al-Qur\'an (BTQ) bagi seluruh siswa muslim.',
+    condition: 'Sangat Bersih & Sejuk',
+    features: ['Tempat Wudhu Terpisah Pria/Wanita', 'Mukena & Sarung Bersih', 'Sajadah Nyaman', 'Sound Musholla'],
+    imageUrl: 'https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=600',
+  },
+  {
+    id: 'f-6',
+    name: 'Ruang UKS & Sanitasi Sehat',
+    category: 'Kesehatan & Ibadah',
+    description: 'Unit Kesehatan Sekolah untuk pertolongan pertama pada siswa yang sakit, dilengkapi tempat tidur periksa, obat-obatan dasar, dan wastafel cuci tangan higienis.',
+    condition: 'Baik & Higienis',
+    features: ['Tempat Tidur Pasien', 'Kotak P3K Lengkap', 'Timbangan & Pengukur Tinggi Badan', 'Kerjasama dengan Puskesmas Segeri'],
+    imageUrl: 'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=600',
+  },
+];

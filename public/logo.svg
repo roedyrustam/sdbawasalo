@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#B91C1C" stroke="#F59E0B" stroke-width="4"/>
+  <circle cx="50" cy="50" r="42" fill="#991B1B"/>
+  <path d="M50 22 L24 36 L50 50 L76 36 Z" fill="#FDE047"/>
+  <path d="M72 41 L72 58 C72 66 60 72 50 72 C40 72 28 66 28 58 L28 41 L50 53 Z" fill="#FACC15"/>
+  <path d="M76 36 L82 46 L80 62 L76 60 Z" fill="#F59E0B"/>
+  <circle cx="50" cy="78" r="4" fill="#FDE047"/>
+  <text x="50" y="90" font-family="sans-serif" font-size="8" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SD 32 BAWASALO</text>
+</svg>
